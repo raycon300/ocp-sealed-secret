@@ -1,0 +1,7 @@
+sealed-secrets:
+  namespaceOverride: default
+
+  fullnameOverride: sealed-secrets-controller
+
+  serviceAccount:
+    name: sealed-secrets
