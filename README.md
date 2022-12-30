@@ -1,8 +1,4 @@
-# Sealed Secrets Chart
-
-
-
-## Instalação
+# Instalação
 Por padrão esse _chart_ vai ser instalado no _namespace default_. Para altear esse comportamento basta modificar a linha abaixo no arquivo `values.yaml`:
 
 ```yaml
